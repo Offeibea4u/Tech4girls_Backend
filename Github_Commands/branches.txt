@@ -1,0 +1,1 @@
+the git pull command isa command in github environment that is used to update your local repository with changes made in the remote repository
