@@ -1,0 +1,4 @@
+git branch {name of branch}
+git push origin {branch name}
+Or you can publish your branch using the source control 
+gi checkout {branch name } to move into the branch
