@@ -1,0 +1,2 @@
+#7 directories in the root directory
+bin,dev,tmp,var,usr,proc,etg
