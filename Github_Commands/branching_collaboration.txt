@@ -1,0 +1,1 @@
+The concept of branching is making of copies of the main repositories so developers working on a same project can work in their own branch reducing the risk of conflicts when they try to push or pull at the same time.
