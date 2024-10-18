@@ -1,0 +1,2 @@
+to change file permissions use 
+chmod 644 "file-name"
