@@ -1,0 +1,4 @@
+numericl value repreentation
+read =(4)
+write=(2)
+execute=(1)
