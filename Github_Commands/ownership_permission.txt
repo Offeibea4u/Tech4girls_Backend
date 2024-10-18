@@ -1,0 +1,5 @@
+file ownwership and permission determines who can access[read or write] and execute file or directory
+The 3 owners are the owner,the group and the others
+optal modes are numbers used to represent the permissin the file has 
+Read =(4),Write =(2),Execute =(1) 
+A file's permissions is represented by ten strings. When it begins with a (-) it indictae it as a flie and (d) represents a directory
