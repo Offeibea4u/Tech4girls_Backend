@@ -1,0 +1,4 @@
+mkdir Backend_Projects
+cd Backend_Projects
+mkdir ProjectA
+mkdir projectB
