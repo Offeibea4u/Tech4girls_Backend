@@ -1,0 +1,9 @@
+(-rw-r--r-- 1 userhacsa userhacsa 70 Oct 14 10:00 script.sh ) from the ls -l command provides detailed information about the script.sh file
+the various parts means-:
+
+File type and permissions (-rw-r--r--):
+
+(-)  represents a  file.
+(rw-) shows the permissions for the file owner: r (read) and w (write) permissions, but no execute (-) permission.
+(r--) are the permissions for the group: r (read) permission only
+(r--) are the permissions for others: r (read) permission only
